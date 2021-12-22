@@ -24,6 +24,7 @@ public class Registration extends JFrame{
         Color orangClr = new Color(255,160,0);
         Color merunClr = new Color(35,0,0);
         
+        // alsdkjflsdf
         bottomP = new JPanel();
         bottomP.setLayout(null);
         bottomP.setBounds(150, 400, 650, 100);
